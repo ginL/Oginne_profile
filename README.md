@@ -2,9 +2,10 @@
 ## Electronics Hardware Engineer
 ### oginne.lapuz@gmail.com
 
-#### AREA OF SPECIALIZATION/INTERESTS
+#### Area of specialization
 
->Communications: BLE, GSM, IoT, LAN and WLAN, LoRaWAN, Mesh networking, RF, ZigBee RF
+>Communications: 
+>>BLE, GSM, IoT, LAN and WLAN, LoRaWAN, Mesh networking, RF, ZigBee RF
 >Electronics hardware: Audio amplifier design, Battery charging systems, Body communications, Control and
 measurement systems, Power supply design (Linear/SMPS), Sensor development, Servo
 and stepper systems, Signaling
